@@ -1,4 +1,3 @@
-
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -36,25 +35,25 @@
             
             <div class="story-grid">
                 <div class="story-card">
-                    <img src="https://imgs.search.brave.com/S81vULdPfu8zp0-Itizfyj_EZvTiK28sT50xH4n40Ng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvODU1/NTM3NTEvcHQvZm90/by9icmF6aWxpYW4t/Zm9yd2FyZC1uZXlt/YXItb2Ytc2FudG9z/LWdldHMtcmVhZHkt/Zm9yLXRoZWlyLTIw/MDktcGF1bGlzdGEt/Y2hhbXBpb25zaGlw/LWZvb3RiYWxsLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1r/NGVvLXZZTk9xSFpY/eU1uVWluZnR3SF8t/QmQ1SXNQRGM3RU1T/cTZfaExZPQ
+                    <img src="https://i.pinimg.com/736x/5f/73/f2/5f73f2c4c8e6b5c4f8e6d5c4b3a2c1d0.jpg" alt="Neymar na infância">
                     <h3>Infância em Praia Grande</h3>
                     <p>Neymar nasceu em 5 de fevereiro de 1992 em Mogi Cruzes, mas cresceu em Praia Grande, São Paulo. Desde pequeno, mostrava talento excepcional para o futebol, começando sua jornada profissional ainda jovem.</p>
                 </div>
 
                 <div class="story-card">
-                    <img src="https://images.unsplash.com/photo-1577092918613-e4d8e0d07d11?w=500&h=500&fit=crop" alt="Neymar Santos">
+                    <img src="https://s.libertadoresweb.com/images/2024/01/31/neymar-nos-tempos-do-santos-fc-1706735568.jpg" alt="Neymar Santos">
                     <h3>Santos FC - O Início</h3>
                     <p>Começou nas categorias de base do Santos FC aos 11 anos. Seu desenvolvimento foi notável, chamando atenção de técnicos e torcedores. Em 2009, estreou profissionalmente e logo se tornou a esperança do clube.</p>
                 </div>
 
                 <div class="story-card">
-                    <img src="https://imgs.search.brave.com/v2PXQhGXVl_1TfaBvTI5wIdcGvoXt5IrJtCEczP5AGM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTY5/ODU3MDA4L3Bob3Rv/L2JhcmNlbG9uYS1z/cGFpbi1uZXltYXIt/cG9zZXMtZm9yLXRo/ZS1tZWRpYS1hZnRl/ci1zaWduaW5nLWFz/LWEtbmV3LXBsYXll/ci1vZi10aGUtZmMt/YmFyY2Vsb25hLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1E/bjVLTGJSY01ZNzZK/RUg3YXQ2NWVqOU9L/ZEtBTktQOXJsSlVr/VTZ4OFNFPQ
+                    <img src="https://s.libertadoresweb.com/images/2024/01/31/neymar-barcelona-1706735568.jpg" alt="Neymar Barcelona">
                     <h3>Barcelona - O Sonho Europeu</h3>
                     <p>Em 2013, Neymar assinou com o Barcelona por €86,2 milhões. Ao lado de Messi e Suárez, conquistou La Liga (2014-2015) e ajudou o time a ganhar a Liga dos Campeões naquele ano memorável.</p>
                 </div>
 
                 <div class="story-card">
-                    <img src="https://imgs.search.brave.com/UbxNNqaiEX1ZkM0rktHGXroPvdnMVGenlAUDZkSMFzA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzkyL05leW1hcl9Q/U0cuanBn
+                    <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=400&h=300&fit=crop" alt="Neymar PSG">
                     <h3>Paris Saint-Germain</h3>
                     <p>Em 2017, se tornou o jogador mais caro do mundo ao assinar com o PSG por €222 milhões. Conquistou títulos franceses e consolidou sua marca como um dos maiores talentos do futebol mundial.</p>
                 </div>
