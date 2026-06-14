@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -36,7 +36,7 @@
             
             <div class="story-grid">
                 <div class="story-card">
-                    <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=500&h=500&fit=crop" alt="Neymar Jovem">
+                    <img src="https://imgs.search.brave.com/S81vULdPfu8zp0-Itizfyj_EZvTiK28sT50xH4n40Ng/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvODU1/NTM3NTEvcHQvZm90/by9icmF6aWxpYW4t/Zm9yd2FyZC1uZXlt/YXItb2Ytc2FudG9z/LWdldHMtcmVhZHkt/Zm9yLXRoZWlyLTIw/MDktcGF1bGlzdGEt/Y2hhbXBpb25zaGlw/LWZvb3RiYWxsLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1r/NGVvLXZZTk9xSFpY/eU1uVWluZnR3SF8t/QmQ1SXNQRGM3RU1T/cTZfaExZPQ
                     <h3>Infância em Praia Grande</h3>
                     <p>Neymar nasceu em 5 de fevereiro de 1992 em Mogi Cruzes, mas cresceu em Praia Grande, São Paulo. Desde pequeno, mostrava talento excepcional para o futebol, começando sua jornada profissional ainda jovem.</p>
                 </div>
@@ -48,13 +48,13 @@
                 </div>
 
                 <div class="story-card">
-                    <img src="https://images.unsplash.com/photo-1552108471-ee0c6995d711?w=500&h=500&fit=crop" alt="Neymar Barcelona">
+                    <img src="https://imgs.search.brave.com/v2PXQhGXVl_1TfaBvTI5wIdcGvoXt5IrJtCEczP5AGM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTY5/ODU3MDA4L3Bob3Rv/L2JhcmNlbG9uYS1z/cGFpbi1uZXltYXIt/cG9zZXMtZm9yLXRo/ZS1tZWRpYS1hZnRl/ci1zaWduaW5nLWFz/LWEtbmV3LXBsYXll/ci1vZi10aGUtZmMt/YmFyY2Vsb25hLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1E/bjVLTGJSY01ZNzZK/RUg3YXQ2NWVqOU9L/ZEtBTktQOXJsSlVr/VTZ4OFNFPQ
                     <h3>Barcelona - O Sonho Europeu</h3>
                     <p>Em 2013, Neymar assinou com o Barcelona por €86,2 milhões. Ao lado de Messi e Suárez, conquistou La Liga (2014-2015) e ajudou o time a ganhar a Liga dos Campeões naquele ano memorável.</p>
                 </div>
 
                 <div class="story-card">
-                    <img src="https://images.unsplash.com/photo-1541614101331-1a720b88a01d?w=500&h=500&fit=crop" alt="Neymar PSG">
+                    <img src="https://imgs.search.brave.com/UbxNNqaiEX1ZkM0rktHGXroPvdnMVGenlAUDZkSMFzA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzkyL05leW1hcl9Q/U0cuanBn
                     <h3>Paris Saint-Germain</h3>
                     <p>Em 2017, se tornou o jogador mais caro do mundo ao assinar com o PSG por €222 milhões. Conquistou títulos franceses e consolidou sua marca como um dos maiores talentos do futebol mundial.</p>
                 </div>
