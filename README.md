@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neymar - A História do Rei do Futebol</title>
+    <title>Neymar - A História de uma Lenda</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
